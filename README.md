@@ -9,7 +9,7 @@ pword \<msgsize\> \<outfile\> \<N\> \<infile1\> .... \<infileN\>
   
 for using processes, and use
   
-tword <outfile> <N> <infile1> .... <infileN>
+tword \<outfile\> \<N\> \<infile1\> .... \<infileN\>
   
 to utilize threads
 
