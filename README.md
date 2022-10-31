@@ -5,7 +5,7 @@ Two applications that find the frequencies of words given in N input files, usin
 
 Type make and use the bash command
 
-pword <msgsize> <outfile> <N> <infile1> .... <infileN>
+pword msgsize outfile N infile1 .... infileN
   
 for using processes, and use
   
